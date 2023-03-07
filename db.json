@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "The Product is Awesome!",
+      "rating": 10,
+      "id": 1
+    },
+    {
+      "text": "Good Design and Color",
+      "rating": 9,
+      "id": 2
+    },
+    {
+      "text": "Quality is Good ",
+      "rating": 10,
+      "id": 3
+    }
+  ]
+}
